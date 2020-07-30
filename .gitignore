@@ -1,0 +1,18 @@
+.env
+node_modules
+.nyc_output
+tmp
+coverage
+docs
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+.idea/
+.vscode/
